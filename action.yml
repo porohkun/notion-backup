@@ -1,0 +1,5 @@
+name: 'Notion Backup'
+description: 'Backups Notion content to GitHub'
+runs:
+  using: 'node12'
+  main: 'index.js'
