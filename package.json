@@ -2,7 +2,7 @@
     "name": "notion-backup",
     "version": "0.1.0",
     "dependencies": {
-        "axios": "0.21.x",
-        "extract-zip": "2.0.x"
+        "axios": "^0.21.1",
+        "extract-zip": "^2.0.1"
     }
 }
